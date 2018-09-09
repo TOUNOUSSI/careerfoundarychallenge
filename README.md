@@ -1,13 +1,14 @@
 # CareerFoundary
 
-@Author: Tounoussi Youssef
+## about the author
+Author: Tounoussi Youssef
 
-@Email: youssef.tounoussi@gmail.com
+Email: youssef.tounoussi@gmail.com
 
-@version : 1.0
+version : 1.0
 
-@Created date :  09/09/2018
-
+Created date :  09/09/2018
+##
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
 
