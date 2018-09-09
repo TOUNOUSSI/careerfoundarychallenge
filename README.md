@@ -39,7 +39,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 
-Description of the proposal: 
+## Description of the proposal
+
     The project is a serveless web landing application that consume a RESTful API of the Career Foundary inc.
     The end points consummed by the web application are :
       - https://careerfoundry.com/en/api/courses/ : here is the list of courses offred by the Career foundary web service. 
@@ -50,7 +51,8 @@ Description of the proposal:
        Angular 6, JQuery, HTML, CSS and Bootstrap 
 
 
-Steps :
+## Followed steps 
+
     Before i started the developement of the solution, it's necessary to understand the context first ,so 
     i gived 30 minutes to check what i am really in front of,and what are the requirements specifications that my landing page need to have?
     further more what are the expectations and what i need to have as assets?
