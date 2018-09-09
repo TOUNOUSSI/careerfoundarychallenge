@@ -46,7 +46,6 @@ Steps :
             - after getting the list of courses what i did, is to make it showen into the HTML file and i started optimizing the views with CSS and Bootstrap 
    - consuming the first RESTful API end-point 2:  https://careerfoundry.com/en/api/courses/{course_slug} 
    
-   - buildin the 
 
 
 
