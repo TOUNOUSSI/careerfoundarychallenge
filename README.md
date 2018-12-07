@@ -38,7 +38,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 
-
 ## Description of the proposal
 
     The project is a serveless web landing application that consume a RESTful API of the Career Foundary inc.
