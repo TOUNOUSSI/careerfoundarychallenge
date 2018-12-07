@@ -11,7 +11,6 @@
             "schematics": {},
             "targets": {
                 "build": {
-                  
                     "builder": "@angular-devkit/build-angular:browser",
                     "options": {
                         "outputPath": "dist/careerFoundary",
